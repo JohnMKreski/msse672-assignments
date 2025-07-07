@@ -53,7 +53,7 @@ week1/
 ```bash
 cd week1
 mvn compile
-mvn exec:java -Dexec.mainClass="org.example.App"
+mvn exec:java -Dexec.mainClass="com.example.App"
 ```
 
 ---
@@ -61,9 +61,9 @@ mvn exec:java -Dexec.mainClass="org.example.App"
 ## 📝 Logging Output Example
 
 ```
-2025-07-06 10:00:00 [main] INFO  org.example.App - Hello, Log4j2 World!
-2025-07-06 10:00:00 [main] WARN  org.example.App - This is a warning.
-2025-07-06 10:00:00 [main] ERROR org.example.App - This is an error.
+2025-07-06 10:00:00 [main] INFO  com.example.App - Hello, Log4j2 World!
+2025-07-06 10:00:00 [main] WARN  com.example.App - This is a warning.
+2025-07-06 10:00:00 [main] ERROR com.example.App - This is an error.
 ```
 
 ---
