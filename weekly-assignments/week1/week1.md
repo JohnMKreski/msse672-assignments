@@ -27,7 +27,7 @@ week1/
 ├── src/
 │   ├── main/
 │   │   ├── java/
-│   │   │   └── org/example/App.java
+│   │   │   └── com/example/App.java
 │   │   └── resources/
 │   │       └── log4j2.xml
 └── Docs/
