@@ -1,7 +1,7 @@
 # Week 1 – Hello World & Log4j Integration
 
 ## MSSE672 – Component Based Software 
-**Student:** John Michael Kreski 
+**Student:** John Michael Kreski  
 **Week:** 1  
 **Assignment:** Activity 3 – Instrument Code with Log4j
 

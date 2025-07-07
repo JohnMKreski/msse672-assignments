@@ -2,7 +2,7 @@
 
 **Course:** MSSE672 – Component Based Software  
 **Instructor:** Professor Mohammad Abu Matar  
-**Student:** John Michael Kreski
+**Student:** John Michael Kreski  
 **Assignment:** Activity 3 – Instrument Code with Log4j  
 **File:** HWExecution.md
 
